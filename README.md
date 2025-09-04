@@ -42,7 +42,7 @@ react-form/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-form.git
+   git clone https://github.com/Pavankumar280/react-form.git
 
 2. Navigate to the project folder:
 
